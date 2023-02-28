@@ -1,0 +1,2 @@
+cmake -G "MinGW Makefiles" -S .\SRC -B .\XXX
+cmake --build .\XXX
